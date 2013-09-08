@@ -1,0 +1,17 @@
+Skip build tests.
+Index: aircrack-ng/Makefile
+===================================================================
+--- aircrack-ng.orig/Makefile	2013-02-07 09:25:58.148794956 -0500
++++ aircrack-ng/Makefile	2013-02-07 09:29:34.328336624 -0500
+@@ -46,11 +46,7 @@
+ 
+ clean:
+ 	$(MAKE) -C src $(@)
+-	$(MAKE) -C test/cryptounittest $(@)
+ 
+ distclean: clean
+ 
+-check: 
+-	$(MAKE) -C src $(@)
+-	$(MAKE) -C test/cryptounittest $(@)
+ 	

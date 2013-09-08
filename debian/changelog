@@ -1,0 +1,77 @@
+aircrack-ng (1.2-beta1-1kali1) kali; urgency=low
+
+  * Force rebuild
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 03 Jun 2013 11:25:27 -0600
+
+aircrack-ng (1.2-beta1-1kali0) kali; urgency=low
+
+  * Imported new upstream release
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 03 Jun 2013 11:18:22 -0600
+
+aircrack-ng (1.2~svn2256-1kali1) kali; urgency=low
+
+  * Fixed build depends
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 06 Mar 2013 06:27:25 -0700
+
+aircrack-ng (1.2~svn2256-1kali0) kali; urgency=low
+
+  * Imported new upstream version
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 06 Mar 2013 06:16:38 -0700
+
+aircrack-ng (1.2~svn2247-0kali3) kali; urgency=low
+
+  * libnl fixed
+
+ -- Mati Aharoni <muts@kali.org>  Wed, 13 Feb 2013 14:08:52 -0500
+
+aircrack-ng (1.2~svn2247-0kali2) kali; urgency=low
+
+  * Added libnl to "make" directive
+
+ -- Mati Aharoni <muts@kali.org>  Wed, 13 Feb 2013 13:54:20 -0500
+
+aircrack-ng (1.2~svn2247-0kali1) kali; urgency=low
+
+  * Updated aircrack-ng
+
+ -- Mati Aharoni <muts@kali.org>  Wed, 13 Feb 2013 01:36:49 -0500
+
+aircrack-ng (1.2~svn2245-0kali1) kali; urgency=low
+
+  * Aircrack-ng svn import
+
+ -- Mati Aharoni <muts@kali.org>  Thu, 07 Feb 2013 09:26:58 -0500
+
+aircrack-ng (1.1-1kali4) kali; urgency=low
+
+  * Removed desktop file
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 14 Dec 2012 19:07:31 -0500
+
+aircrack-ng (1.1-1kali3) kali; urgency=low
+
+  * Fixed airodump desktop file
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 01 Dec 2012 12:11:39 -0500
+
+aircrack-ng (1.1-1kali2) kali; urgency=low
+
+  * Updating menu items
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 01 Dec 2012 07:33:53 -0500
+
+aircrack-ng (1.1-1kali1) kali; urgency=low
+
+  * Kali Version
+
+ -- dookie <dookie@kali.org>  Tue, 30 Oct 2012 13:53:40 -0600
+
+aircrack-ng (1.1-1) kali; urgency=low
+
+  * Initial release
+
+ -- dookie <dookie@kali.org>  Fri, 26 Oct 2012 11:53:21 -0600
